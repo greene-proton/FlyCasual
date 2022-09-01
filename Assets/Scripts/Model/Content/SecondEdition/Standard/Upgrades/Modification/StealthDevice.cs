@@ -16,8 +16,8 @@ namespace UpgradesList.SecondEdition
                 cost: 8,
                 abilityType: typeof(Abilities.SecondEdition.StealthDeviceAbility),
                 seImageNumber: 77,
-                legalityInfo: new List<Legality> { Legality.StandartLegal }
-                //legalityInfo: new List<Legality> { Legality.StandartBanned }
+                //legalityInfo: new List<Legality> { Legality.StandartLegal }
+                legalityInfo: new List<Legality> { Legality.StandartBanned }
             );
         }
     }
