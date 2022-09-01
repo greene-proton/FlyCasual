@@ -8,7 +8,8 @@
             {
                 Name = "Free Mode";
                 Description = "You can install any upgrade on any ship.\n" +
-                    "Adds \"Improved Initiative\" upgrade that increases Initiative of pilot by 1.";
+                    "Adds \"Improved Initiative\" upgrade that increases Initiative of pilot by 1.\n" + 
+                    "Banned Pilots and Upgrades can also be used. ";
             }
 
             protected override void Activate()
